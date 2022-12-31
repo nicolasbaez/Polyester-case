@@ -1,6 +1,6 @@
 # Polyester-case
 Rumba tumbaaa
-![buh](https://github.com/nicolasbaez/Youthful-dew/blob/main/xp001.gif)
+![buh](https://github.com/nicolasbaez/Polyester-case/blob/main/xp002.gif)
 ```javascript
 w = 500;
 k = 0;
